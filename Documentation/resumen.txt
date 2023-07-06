@@ -1,0 +1,14 @@
+mainRoutes:
+1. index --> '/'
+2. Contacto --> '/contact'
+3. Sobra mí --> '/about'
+
+userRoutes:
+4. Ingreso --> '/login'
+5. Detalle de usuario --> '/userDetail'
+6. Registro --> '/userRegister'
+
+postRoutes:
+7. Todos los posteos --> '/blog'
+2. Crear un posteo --> '/postCreate'
+3. Moficicar/eliminar posteo --> '/postEdit'
